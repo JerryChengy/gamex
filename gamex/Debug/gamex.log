@@ -1,0 +1,23 @@
+﻿生成启动时间为 2014/9/8 15:47:23。
+     1>项目“G:\learn\gamex\gamex\gamex\gamex.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\gamex.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\extensions\GUI\CCControlExtension /I..\extensions\proj.win32 /I..\extensions /I..\cocos2dx /I..\cocos2dx\include /I..\cocos2dx\kazmath\include /I..\cocos2dx\platform\win32 /I..\cocos2dx\platform\third_party\win32\OGLES /I.\ /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D COCOS2D_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt HelloWorldScene.cpp
+         HelloWorldScene.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\learn\gamex\gamex\Debug\gamex.exe" /NOLOGO /LIBPATH:../lib libExtensions.lib opengl32.lib glew32.lib libcocos2d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\gamex.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\learn\gamex\gamex\Debug\gamex.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\learn\gamex\gamex\Debug\gamex.lib" /MACHINE:X86 Debug\AppDelegate.obj
+         Debug\HelloWorldScene.obj
+         Debug\main.obj
+         LINK : 没有找到 G:\learn\gamex\gamex\Debug\gamex.exe 或上一个增量链接没有生成它；正在执行完全链接
+         gamex.vcxproj -> G:\learn\gamex\gamex\Debug\gamex.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\learn\gamex\gamex\Debug\gamex.exe;#1" /manifest Debug\gamex.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\gamex.unsuccessfulbuild”。
+         正在对“Debug\gamex.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\learn\gamex\gamex\gamex\gamex.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.86

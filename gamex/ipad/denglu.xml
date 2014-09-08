@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6eb3af39dd960dd05ba3af7a3b2abce1:9a6f6849452e5bc055d4dc89d2950aac:80d09a76e47bd0e3e5cc29e6fbf7893b$ -->
+<TextureAtlas imagePath="denglu.png">
+    <SubTexture name="01" x="712" y="245" width="261" height="94"/>
+    <SubTexture name="02" x="2" y="245" width="261" height="94"/>
+    <SubTexture name="DL_baoman" x="136" y="341" width="73" height="43"/>
+    <SubTexture name="DL_datiao" x="2" y="2" width="960" height="121"/>
+    <SubTexture name="DL_dengji_b" x="110" y="482" width="106" height="24"/>
+    <SubTexture name="DL_fanhui" x="249" y="458" width="137" height="75"/>
+    <SubTexture name="DL_fuwuqimingcheng_a" x="265" y="334" width="445" height="87"/>
+    <SubTexture name="DL_fuwuqimingcheng_b" x="265" y="245" width="445" height="87"/>
+    <SubTexture name="DL_guang" x="712" y="404" width="302" height="23"/>
+    <SubTexture name="DL_huifu" x="448" y="423" width="193" height="53"/>
+    <SubTexture name="DL_jian" x="388" y="478" width="59" height="74" frameX="0" frameY="0" frameWidth="61" frameHeight="74"/>
+    <SubTexture name="DL_jinruyouxi" x="712" y="341" width="193" height="53"/>
+    <SubTexture name="DL_juesebeijing" x="998" y="64" width="15" height="338"/>
+    <SubTexture name="DL_ksc" x="110" y="397" width="137" height="83"/>
+    <SubTexture name="DL_liuchang" x="907" y="341" width="73" height="43"/>
+    <SubTexture name="DL_lv" x="964" y="64" width="32" height="26"/>
+    <SubTexture name="DL_mingcheng" x="249" y="423" width="197" height="33"/>
+    <SubTexture name="DL_re" x="2" y="583" width="59" height="74" frameX="0" frameY="0" frameWidth="61" frameHeight="74"/>
+    <SubTexture name="DL_renwu" x="2" y="404" width="106" height="177"/>
+    <SubTexture name="DL_shangchu" x="69" y="341" width="65" height="54"/>
+    <SubTexture name="DL_shangchu2" x="2" y="341" width="65" height="54"/>
+    <SubTexture name="DL_touxiang" x="110" y="508" width="95" height="94"/>
+    <SubTexture name="DL_weihu" x="964" y="33" width="57" height="29" frameX="-8" frameY="-6" frameWidth="73" frameHeight="43"/>
+    <SubTexture name="DL_xiaotiao" x="2" y="125" width="960" height="118"/>
+    <SubTexture name="DL_xin" x="643" y="423" width="61" height="74"/>
+    <SubTexture name="DL_yongji" x="964" y="2" width="57" height="29" frameX="-9" frameY="-6" frameWidth="73" frameHeight="43"/>
+</TextureAtlas>
